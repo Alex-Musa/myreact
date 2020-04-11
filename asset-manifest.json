@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myreact/static/css/main.993bc322.chunk.css",
+    "main.js": "/myreact/static/js/main.f8af224a.chunk.js",
+    "main.js.map": "/myreact/static/js/main.f8af224a.chunk.js.map",
+    "runtime-main.js": "/myreact/static/js/runtime-main.779dcf26.js",
+    "runtime-main.js.map": "/myreact/static/js/runtime-main.779dcf26.js.map",
+    "static/js/2.3208917d.chunk.js": "/myreact/static/js/2.3208917d.chunk.js",
+    "static/js/2.3208917d.chunk.js.map": "/myreact/static/js/2.3208917d.chunk.js.map",
+    "index.html": "/myreact/index.html",
+    "precache-manifest.ffac7966237ac229f69babd1ba5e970f.js": "/myreact/precache-manifest.ffac7966237ac229f69babd1ba5e970f.js",
+    "service-worker.js": "/myreact/service-worker.js",
+    "static/css/main.993bc322.chunk.css.map": "/myreact/static/css/main.993bc322.chunk.css.map",
+    "static/js/2.3208917d.chunk.js.LICENSE.txt": "/myreact/static/js/2.3208917d.chunk.js.LICENSE.txt",
+    "static/media/alex.jpg": "/myreact/static/media/alex.3122b5ad.jpg",
+    "static/media/avatar.png": "/myreact/static/media/avatar.7c8e5f50.png",
+    "static/media/html-css-javascript-lg.jpg": "/myreact/static/media/html-css-javascript-lg.54fd4234.jpg",
+    "static/media/javascript-fullstack.jpg": "/myreact/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/mern-stack.jpg": "/myreact/static/media/mern-stack.90616a5d.jpg",
+    "static/media/react-redux.jpg": "/myreact/static/media/react-redux.a8b012a0.jpg",
+    "static/media/App.css": "/myreact/static/media/silver-and-black-laptop-computer-1229861.ed0debef.jpg",
+    "static/media/user.png": "/myreact/static/media/user.95777b9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.779dcf26.js",
+    "static/js/2.3208917d.chunk.js",
+    "static/css/main.993bc322.chunk.css",
+    "static/js/main.f8af224a.chunk.js"
+  ]
+}
